@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Building Creative Web Applications.**
 
-- 🌱 I’m currently learning **React, Flutter, JavaScript, MSQL, Python and Data Science.**
+- 🌱 I’m currently learning **React, Flutter, JavaScript, MySQL, Python and Data Science.**
 
 - 💬 Ask me about **Html, CSS, JavaScript, React JS, React Native and Data Science.**
 
