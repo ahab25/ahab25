@@ -17,10 +17,10 @@
 <p align="left">
 <a href="https://codepen.io/ahabkhan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahabkhan25" height="30" width="40" /></a>
 <a href="https://twitter.com/khan_ahab25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khan_ahab25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahab-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahab-khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahab-khan-194b62256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahab-khan-194b62256/" height="30" width="40" /></a>
 <a href="https://fb.com/ahabkhan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahabkhan25" height="30" width="40" /></a>
 <a href="https://instagram.com/khanahab_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khanahab_25" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahab da-traveller 🇵🇰🌏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahab da-traveller 🇵🇰🌏" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyuc23cof2-txklhrluvrdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyuc23cof2-txklhrluvrdg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahab25&show_icons=true&locale=en" alt="ahab25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahab25&" alt="ahab25" /></p>
-
